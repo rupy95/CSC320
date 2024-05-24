@@ -1,2 +1,2 @@
 # CSC320
-CTA1
+Critical Thinking
